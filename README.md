@@ -17,3 +17,8 @@ Test ID: 004
 Title: Verify phone field shows error for invalid numbers
 1. Open Entrata url
 2. Check phone number field for wrong entries
+
+
+
+Defect: Found one defect in Test ID: 002.
+Email takes invalid entries
